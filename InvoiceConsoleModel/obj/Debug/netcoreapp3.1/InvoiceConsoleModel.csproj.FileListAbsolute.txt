@@ -1,0 +1,13 @@
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\bin\Debug\netcoreapp3.1\InvoiceConsoleModel.exe
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\bin\Debug\netcoreapp3.1\InvoiceConsoleModel.deps.json
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\bin\Debug\netcoreapp3.1\InvoiceConsoleModel.runtimeconfig.json
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\bin\Debug\netcoreapp3.1\InvoiceConsoleModel.runtimeconfig.dev.json
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\bin\Debug\netcoreapp3.1\InvoiceConsoleModel.dll
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\bin\Debug\netcoreapp3.1\InvoiceConsoleModel.pdb
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\obj\Debug\netcoreapp3.1\InvoiceConsoleModel.csprojAssemblyReference.cache
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\obj\Debug\netcoreapp3.1\InvoiceConsoleModel.AssemblyInfoInputs.cache
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\obj\Debug\netcoreapp3.1\InvoiceConsoleModel.AssemblyInfo.cs
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\obj\Debug\netcoreapp3.1\InvoiceConsoleModel.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\obj\Debug\netcoreapp3.1\InvoiceConsoleModel.dll
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\obj\Debug\netcoreapp3.1\InvoiceConsoleModel.pdb
+C:\Users\Rolando\source\repos\InvoiceConsoleModel\InvoiceConsoleModel\obj\Debug\netcoreapp3.1\InvoiceConsoleModel.genruntimeconfig.cache
